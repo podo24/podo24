@@ -68,5 +68,5 @@ Accept: application/json
 
 <!-- Footer -->
 <p align="center">
-  <code>HTTP/1.1 200 OK</code> · Thanks for visiting 👋
+  Thanks for visiting 👋
 </p>
