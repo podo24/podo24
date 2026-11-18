@@ -4,7 +4,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=E88AA8&center=true&vCenter=true&width=520&lines=%EC%95%88%EB%85%95%ED%95%98%EC%84%B8%EC%9A%94!+%ED%8F%AC%EB%8F%84%EC%9E%85%EB%8B%88%EB%8B%A4+%F0%9F%8D%87;Backend+%26+Game+Server+Developer;Python+%C2%B7+TypeScript+%C2%B7+Lua" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Jua&size=26&pause=1000&color=E88AA8&center=true&vCenter=true&width=520&lines=%EC%95%88%EB%85%95%ED%95%98%EC%84%B8%EC%9A%94!+%ED%8F%AC%EB%8F%84%EC%9E%85%EB%8B%88%EB%8B%A4+%F0%9F%8D%87;Backend+%26+Game+Server+Developer;Python+%C2%B7+TypeScript+%C2%B7+Lua" alt="Typing SVG" />
 </p>
 
 <p align="center">
