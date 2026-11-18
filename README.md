@@ -1,10 +1,10 @@
 <!-- Header -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rounded&color=0:FFD6E0,50:E2D9FF,100:C1E7E3&height=200&section=header&text=Hi%2C%20I'm%20Podo%20🍇&fontSize=60&fontColor=4A4A5E&fontAlignY=38&desc=Backend%20%C2%B7%20Game%20Server%20%C2%B7%20Data&descAlignY=58&descSize=18&animation=fadeIn" width="100%" alt="header" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:FFD6E0,50:E2D9FF,100:C1E7E3&height=200&section=header&text=Hi%2C%20I'm%20Podo%20🍇&fontSize=60&fontColor=4A4A5E&fontAlignY=38&desc=Backend%20%C2%B7%20Game%20Server%20%C2%B7%20Data&descAlignY=58&descSize=18&animation=fadeIn" width="100%" alt="header" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Jua&size=26&pause=1000&color=C75B84&center=true&vCenter=true&width=520&lines=%EC%95%88%EB%85%95%ED%95%98%EC%84%B8%EC%9A%94!+%ED%8F%AC%EB%8F%84%EC%9E%85%EB%8B%88%EB%8B%A4+%F0%9F%8D%87;Backend+%26+Game+Server+Developer;Python+%C2%B7+TypeScript+%C2%B7+Lua" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Jua&size=26&pause=1200&color=C75B84&vCenter=true&width=330&lines=%3E+GET+%2Fpodo+%E2%86%92+200+OK+%F0%9F%8D%87;%3E+%EC%98%A4%EB%8A%98%EB%8F%84+%EC%84%9C%EB%B2%84+%EB%9D%84%EC%9A%B0%EB%8A%94+%EC%A4%91..." alt="Typing SVG" />
 </p>
 
 <p align="center">
