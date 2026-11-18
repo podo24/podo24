@@ -1,6 +1,6 @@
 <!-- Header -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:FFD6E0,50:E2D9FF,100:C1E7E3&height=200&section=header&text=Hi%2C%20I'm%20Podo&fontSize=60&fontColor=4A4A5E&fontAlignY=46&desc=Backend%20%C2%B7%20Game%20Server%20%C2%B7%20Data&descAlignY=68&descSize=18&animation=fadeIn" width="100%" alt="header" />
+  <img src="https://capsule-render.vercel.app/api?type=wave&color=0:FFD6E0,50:E2D9FF,100:C1E7E3&height=220&section=header&text=Hi%2C%20I'm%20Podo&fontSize=60&fontColor=4A4A5E&fontAlignY=40&desc=Backend%20%C2%B7%20Game%20Server%20%C2%B7%20Data&descAlignY=62&descSize=18&animation=fadeIn" width="100%" alt="header" />
 </p>
 
 <p align="center">
@@ -69,4 +69,8 @@ Accept: application/json
 <!-- Footer -->
 <p align="center">
   Thanks for visiting 👋
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=wave&color=0:C1E7E3,50:E2D9FF,100:FFD6E0&height=120&section=footer" width="100%" alt="footer" />
 </p>
