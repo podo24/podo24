@@ -1,10 +1,10 @@
 <!-- Header -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=wave&color=0:FFD6E0,50:E2D9FF,100:C1E7E3&height=220&section=header&text=Hi%2C%20I'm%20Podo&fontSize=60&fontColor=4A4A5E&fontAlignY=40&desc=Backend%20%C2%B7%20Game%20Server%20%C2%B7%20Data&descAlignY=62&descSize=18&animation=fadeIn" width="100%" alt="header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FFD6E0,50:E2D9FF,100:C1E7E3&height=220&section=header&text=Hi%2C%20I'm%20Podo&fontSize=60&fontColor=4A4A5E&fontAlignY=35&desc=Backend%20%C2%B7%20Game%20Server%20%C2%B7%20Data&descAlignY=53&descSize=18&animation=fadeIn" width="100%" alt="header" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Jua&size=26&pause=1200&color=C75B84&vCenter=true&width=330&lines=%3E+GET+%2Fpodo+%E2%86%92+200+OK+%F0%9F%8D%87;%3E+%EC%98%A4%EB%8A%98%EB%8F%84+%EC%84%9C%EB%B2%84+%EB%9D%84%EC%9A%B0%EB%8A%94+%EC%A4%91..." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Jua&size=26&pause=1200&color=C75B84&vCenter=true&width=400&lines=%3E+GET+%2Fpodo+%E2%86%92+200+OK+%F0%9F%8D%87;%3E+%EC%98%A4%EB%8A%98%EB%8F%84+%EC%84%9C%EB%B2%84+%EB%9D%84%EC%9A%B0%EB%8A%94+%EC%A4%91..." alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -72,5 +72,5 @@ Accept: application/json
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=wave&color=0:C1E7E3,50:E2D9FF,100:FFD6E0&height=120&section=footer" width="100%" alt="footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:C1E7E3,50:E2D9FF,100:FFD6E0&height=120&section=footer" width="100%" alt="footer" />
 </p>
