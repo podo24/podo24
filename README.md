@@ -4,7 +4,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Jua&size=26&pause=1200&color=C75B84&vCenter=true&width=400&lines=%3E+GET+%2Fpodo+%E2%86%92+200+OK+%F0%9F%8D%87;%3E+%EC%98%A4%EB%8A%98%EB%8F%84+%EC%84%9C%EB%B2%84+%EB%9D%84%EC%9A%B0%EB%8A%94+%EC%A4%91..." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Jua&size=26&pause=1200&color=C75B84&vCenter=true&width=290&lines=%3E+GET+%2Fpodo+%E2%86%92+200+OK;%3E+%EC%98%A4%EB%8A%98%EB%8F%84+%EC%84%9C%EB%B2%84+%EB%9D%84%EC%9A%B0%EB%8A%94+%EC%A4%91...+%F0%9F%8D%87" alt="Typing SVG" />
 </p>
 
 <p align="center">
